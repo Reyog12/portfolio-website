@@ -1,14 +1,20 @@
-Repository Description:
+HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
+=======
+![Peek 2022-01-24 11-06](https://user-images.githubusercontent.com/11813341/150726892-d47d1860-b157-4453-aab0-860b1328b25c.gif)
 
-Welcome to my personal portfolio website repository! 🚀
+# Tools used #
+* HTML, CSS and JavaScript
+* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+* [Font Awesome 5](https://fontawesome.com/)
+* [google map](https://www.embed-map.com/)
 
-This website showcases my journey as a grade 10 student, graphic designer, and budding web developer based in Nepal. Explore my projects, dive into my graphic design gallery, and learn more about the skills I'm developing. Whether you're interested in my web development services, graphic design portfolio, or seeking a collaborative opportunity, this space is designed to connect, inspire, and showcase creativity.
+This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
 
-Key Features:
+ <div class="col-md-6">
+                            <ul>
+                                <li>Name: David Parker</li>
+                                <li>Age: 28</li>
+                                <li>Occupation: Web Developer</li>
 
-🎨 Graphic Design Showcase
-💻 Web Development Portfolio
-🌐 Responsive Design
-🚀 Continuous Updates
-Feel free to explore, contribute, or get in touch for collaborations. Let's build something amazing together! 🔥
-
+                            </ul>
+                        </div>
